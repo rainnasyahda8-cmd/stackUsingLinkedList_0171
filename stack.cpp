@@ -37,5 +37,9 @@ public:
     void pop()
     {
         Node *temp = top;
+        if (isEmpty())
+        {
+            
+        }
     }
 }
