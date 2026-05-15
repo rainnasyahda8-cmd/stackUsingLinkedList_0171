@@ -26,7 +26,8 @@ public:
 
     int push(int value)
     {
-        Node
+        Node *newNode = new Node();
+        newNode->data = value;
 
     }
 }
