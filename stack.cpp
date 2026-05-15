@@ -36,6 +36,6 @@ public:
 
     void pop()
     {
-        
+        Node *temp = top;
     }
 }
