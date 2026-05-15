@@ -21,6 +21,7 @@ private:
 public:
     Stack()
     {
+        top = NULL;
 
     }
 }
