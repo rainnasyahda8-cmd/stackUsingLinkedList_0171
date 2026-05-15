@@ -39,7 +39,8 @@ public:
         Node *temp = top;
         if (isEmpty())
         {
-            
+            cout << "Stack is empty." << endl;
+            return;
         }
     }
 }
